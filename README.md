@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/toyc497">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toyc497&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyc497&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=toyc497&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyc497&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: flex;display: inline_block;justify-content: center"><br>
   <img align="center" alt="Toyc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
