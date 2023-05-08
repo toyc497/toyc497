@@ -1,4 +1,4 @@
-### Eae, Matheus Fillipe a bordo🚀
+### Matheus Fillipe a bordo🚀
 
 <div align="center">
   <a href="https://github.com/toyc497">
